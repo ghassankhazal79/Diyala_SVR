@@ -1,0 +1,36 @@
+{
+  "excel_input": "/tmp/diyala_svr_project/data/موحد.xlsx",
+  "study_period": [
+    1994,
+    2016
+  ],
+  "test_years": 5,
+  "target": "evaporation",
+  "selected_features": [
+    "tmean",
+    "tmin",
+    "tmax",
+    "rh",
+    "wind",
+    "rainfall",
+    "sunshine",
+    "solar_rad",
+    "month_sin",
+    "month_cos"
+  ],
+  "best_svr_params": {
+    "model__C": 500,
+    "model__epsilon": 0.01,
+    "model__gamma": "scale",
+    "best_cv_rmse": 51.31956362668953
+  },
+  "rows_after_cleaning": 828,
+  "stations": [
+    "الخالص",
+    "بلدروز",
+    "خانقين"
+  ],
+  "warnings": [
+    "الورقة المسماة «بلدروز» تتضمن العبارة STATION: BADRA؛ يجب التحقق من هوية المحطة قبل النشر النهائي. البرنامج يعتمد اسم الورقة «بلدروز»."
+  ]
+}

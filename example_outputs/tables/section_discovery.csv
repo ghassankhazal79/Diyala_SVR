@@ -1,0 +1,30 @@
+﻿station,feature,marker_row_excel,header_row_excel,first_year,last_year,years_count,title_detected
+بلدروز,tmean,125,126,1994,2018,25,      درجهالحرارهالاعتياديه                              
+بلدروز,tmin,1,2,1994,2018,25,      الحرارهالصغريمبلدروز                              
+بلدروز,tmax,32,33,1994,2018,25,       الحرارهالعظميم                             
+بلدروز,rh,63,64,1994,2018,25,       الرطوبهالنسبيهبلدروز                             
+بلدروز,wind,94,95,1994,2018,25,      سرعهرياح                              
+بلدروز,rainfall,217,218,1994,2018,25,STATIONBADRA    ELEMENTRAINFALL    امطاربلدروز                            
+بلدروز,sunshine,188,189,1994,2018,25,     السطوعالشمسيبلدروز                               
+بلدروز,solar_rad,472,473,1994,2018,25,     بلدروز الاشعاعالشمسيبلدروز                              
+بلدروز,evaporation,157,158,1994,2018,25,STATIONبلدروز  تبخر  ELEMENTMONTHLYEVAPORATIONTOTALSMM                                
+بلدروز,eto,286,287,1994,2018,25,      التبخرنتحبلدروز                              
+الخالص,tmean,2,3,1991,2018,28,الخالص     درجهالحرارهالاعتياديه        
+الخالص,tmin,37,38,1991,2018,28,الخالص        درجهالحرارهالصغري     
+الخالص,tmax,72,73,1991,2018,28,الخالص     MEANMAXTEMPCدرجهالحرارهالعظمي        
+الخالص,rh,107,108,1991,2018,28,الخالص    MEANRELATIVEHUMIDITYالرطوبهالنسبيه         
+الخالص,wind,142,143,1991,2018,28,الخالص    WINDSPEEDMSالرياح  سرعه       
+الخالص,rainfall,178,179,1991,2018,28,الخالص  امطارالخالص  ELEMENTMONTHLYRAINFALLTOTALSMM         المجموعالسنوي
+الخالص,sunshine,213,214,1991,2018,28,الخالص        السطوعالشمسي     
+الخالص,solar_rad,530,531,1991,2018,28,الخالص   مليواطسم2يوم  الاشعاعالشمسي        
+الخالص,evaporation,354,355,1991,2018,28,STATIONKHALES    ELEMENTMONTHLYEVAPORATIONTOTALSMM    حوضالتبخرالخالص     
+الخالص,eto,249,250,1991,2018,28,الخالص       التبخرنتح      
+خانقين,tmean,1,2,1989,2018,30,STATIONKHANAQIN     الحرارهالاعتياديه  خانقين ELEMEANTMEANAIRTEMPC         
+خانقين,tmin,47,48,1989,2018,30,STATIONKHANAQIN     درجهالحرارهالصغري  خانقين ELEMENTMEANMINTEMPC         
+خانقين,tmax,93,94,1989,2018,30,     درجهالحرارهالعظمي  خانقين ELEMENTMEANMAXC         
+خانقين,rh,139,140,1989,2018,30,MEANMONTHLYOFRH      الرطوبهخانقين           
+خانقين,wind,185,186,1989,2018,30,MEANOFWINDSPEED       خانقين سرعهالرياحخانقين         
+خانقين,rainfall,278,279,1989,2018,30,STATIONKHANAQIN   امطارخانقين ELEMENTMONTHLYRAINFALLTOTALSMM             
+خانقين,sunshine,232,233,1989,2018,30,    الفعليخانقين السطوعالشمسيخانقين            
+خانقين,solar_rad,708,710,1989,2018,30,       الاشعاعالشمسيمليواطسم2يوم          
+خانقين,evaporation,468,469,1989,2018,30,STATIONKHANAQIN   حوضالتبخرخانقين ELEMENTMONTHLYEVAPORATIONTOTALSMM             

@@ -1,0 +1,6 @@
+﻿reference_model,competitor,mean_absolute_error_difference,median_absolute_error_difference,wilcoxon_statistic,p_value,significant_at_0_05,interpretation
+SVR-RBF,Linear Regression,-6.214675180058383,-4.914410845486472,6265.0,0.007240908361751259,True,SVR lower error
+SVR-RBF,Gradient Boosting,-4.528859524151345,-1.416455476445023,6514.0,0.019813377119666395,True,SVR lower error
+SVR-RBF,Seasonal Climatology,2.714856040854974,0.8405203164682575,7110.0,0.13927809380260128,False,Competitor lower error
+SVR-RBF,Random Forest,-2.0597826121360816,-1.4377084188714377,7180.0,0.1680518834864454,False,SVR lower error
+SVR-RBF,Persistence t-12,-2.629117502043119,1.227890507112253,8029.0,0.8683894545257631,False,SVR lower error
